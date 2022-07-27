@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/Azure/azure-sdk-for-go v59.3.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.22
-	github.com/Azure/go-autorest/autorest/adal v0.9.17
+	github.com/Azure/go-autorest/autorest/adal v0.9.21
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
 	github.com/Azure/go-autorest/autorest/to v0.4.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1334
@@ -75,8 +75,8 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.1
 	go.uber.org/goleak v1.1.12
 	go.universe.tf/metallb v0.11.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211101193420-4a448f8816b3
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211103184734-ae416a5f93c7
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
