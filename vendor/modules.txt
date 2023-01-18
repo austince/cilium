@@ -10,7 +10,7 @@ github.com/Azure/go-autorest
 ## explicit; go 1.15
 github.com/Azure/go-autorest/autorest
 github.com/Azure/go-autorest/autorest/azure
-# github.com/Azure/go-autorest/autorest/adal v0.9.17
+# github.com/Azure/go-autorest/autorest/adal v0.9.22
 ## explicit; go 1.15
 github.com/Azure/go-autorest/autorest/adal
 # github.com/Azure/go-autorest/autorest/azure/auth v0.5.9
@@ -845,7 +845,7 @@ go.universe.tf/metallb/pkg/k8s
 go.universe.tf/metallb/pkg/k8s/types
 go.universe.tf/metallb/pkg/layer2
 go.universe.tf/metallb/pkg/speaker
-# golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+# golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 ## explicit; go 1.17
 golang.org/x/crypto/blake2s
 golang.org/x/crypto/blowfish
@@ -854,7 +854,6 @@ golang.org/x/crypto/chacha20poly1305
 golang.org/x/crypto/curve25519
 golang.org/x/crypto/curve25519/internal/field
 golang.org/x/crypto/ed25519
-golang.org/x/crypto/ed25519/internal/edwards25519
 golang.org/x/crypto/internal/poly1305
 golang.org/x/crypto/internal/subtle
 golang.org/x/crypto/pkcs12
@@ -868,7 +867,7 @@ golang.org/x/crypto/ssh/internal/bcrypt_pbkdf
 golang.org/x/mod/internal/lazyregexp
 golang.org/x/mod/module
 golang.org/x/mod/semver
-# golang.org/x/net v0.0.0-20211101193420-4a448f8816b3
+# golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 ## explicit; go 1.17
 golang.org/x/net/bpf
 golang.org/x/net/context
